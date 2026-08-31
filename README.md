@@ -173,34 +173,6 @@ Responsive portfolio website showcasing development and design projects.
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rajeshmern&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshmern&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=3B82F6&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshmern&theme=tokyonight&hide_border=true&background=1a1a2e&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
-
-</div>
-
-<br/>
-
-## Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Advanced_React.js-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/CI%2FCD-1a1a2e?style=flat-square&logo=githubactions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Cloud_Deployment-1a1a2e?style=flat-square&logo=googlecloud&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/System_Design-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI_Integration-1a1a2e?style=flat-square&logo=openai&logoColor=ffffff"/>
-
-</div>
-
-<br/>
 
 ## Let's Connect
 
