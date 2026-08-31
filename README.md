@@ -134,11 +134,11 @@ I'm interested in building:
 
 I'm always interested in connecting with developers, recruiters and people working on interesting technology projects.
 
-📧 **Email:** your-email@example.com
+📧 Email: rajeshmerndeveloper@gmail.com
 
-💼 **LinkedIn:** Add your LinkedIn profile
+💼 LinkedIn:https://www.linkedin.com/in/rajeshmern
 
-🌐 **Portfolio:** Add your portfolio URL
+
 
 ---
 
